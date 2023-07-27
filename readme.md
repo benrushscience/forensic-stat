@@ -14,7 +14,7 @@ By the end of the course, you will be able to
 
 | Topic | Key take-away points | Lecture notes |
 | :---:   | :---: | :---:       |
-| 1. What is probability? | i) When it comes to probabilities, we do not trust our gut, we trust the formulas; ii) We estimate population probabilities from observed frequencies in samples; iii) The chosen sample is very important | [notes](https://crsl4.github.io/forensic-stat//lecture-notes/1what-is-prob.html) | 
+| 1. What is probability? | i) When it comes to probabilities, we do not trust our gut, we trust the formulas; ii) We estimate population probabilities from observed frequencies in samples; iii) The chosen sample is very important | [notes](https://crsl4.github.io/forensic-stat//lecture-notes/1what-is-prob.md) | 
 | 2. How do we combine probabilities? | i) Product rule: we can calculate the probability of simultaneous events when they are independent; ii) Addition rule: we can calculate the probability of different disjoint events  |  [notes](https://crsl4.github.io/forensic-stat//lecture-notes/2combining-probs.html) |
 | 3. How do we update probabilities when new information is available? | i) The conditional probability allows us to update a probability with new information; ii) Very important not to confuse the conditioning event as probabilities would change  |  [notes](https://crsl4.github.io/forensic-stat//lecture-notes/3updating-probs.html) |
 
